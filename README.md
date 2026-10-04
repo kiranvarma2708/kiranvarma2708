@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @kiranvarma2708
-- 👀 I’m interested in Mobile Application Development.
-- 🌱 I’m currently learning Kotlin in Android.
+Kiran Kumar Sunkara
 
-<!---
-kiranvarma2708/kiranvarma2708 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Associate Solution Architect, KPIT Technologies Inc. 
+I work on connected-vehicle telematics: OTA software updates, embedded Linux device management and cloud connectivity (Azure IoT, MQTT) for commercial truck and school bus fleets.
+
+🔗 [ORCID](https://orcid.org/0009-0006-6524-2061) · [LinkedIn](https://www.linkedin.com/in/kiran-kumar-sunkara-93b757165/)
